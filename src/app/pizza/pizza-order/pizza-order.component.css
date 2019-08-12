@@ -1,0 +1,14 @@
+.red {
+    background-color: salmon;
+    border-radius: 15%;
+}
+
+.upgrade {
+    background-color: lightgreen;
+    border-radius: 15%;
+}
+
+.downgrade{
+    background-color: yellow;
+    border-radius: 15%;
+}
